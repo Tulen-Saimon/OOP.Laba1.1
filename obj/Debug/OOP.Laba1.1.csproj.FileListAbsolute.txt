@@ -1,0 +1,9 @@
+D:\Projects\OOP.Laba1.1\OOP.Laba1.1\bin\Debug\OOP.Laba1.1.exe.config
+D:\Projects\OOP.Laba1.1\OOP.Laba1.1\obj\Debug\OOP.Laba1.1.csprojResolveAssemblyReference.cache
+D:\Projects\OOP.Laba1.1\OOP.Laba1.1\obj\Debug\OOP.Laba1._1.Form1.resources
+D:\Projects\OOP.Laba1.1\OOP.Laba1.1\obj\Debug\OOP.Laba1._1.Properties.Resources.resources
+D:\Projects\OOP.Laba1.1\OOP.Laba1.1\obj\Debug\OOP.Laba1.1.csproj.GenerateResource.Cache
+D:\Projects\OOP.Laba1.1\OOP.Laba1.1\bin\Debug\OOP.Laba1.1.exe
+D:\Projects\OOP.Laba1.1\OOP.Laba1.1\bin\Debug\OOP.Laba1.1.pdb
+D:\Projects\OOP.Laba1.1\OOP.Laba1.1\obj\Debug\OOP.Laba1.1.exe
+D:\Projects\OOP.Laba1.1\OOP.Laba1.1\obj\Debug\OOP.Laba1.1.pdb
